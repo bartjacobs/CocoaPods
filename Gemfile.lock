@@ -24,8 +24,8 @@ GIT
 
 GIT
   remote: https://github.com/CocoaPods/Xcodeproj.git
-  revision: f7d31a59aa080c24fd50cbb66b50ee30ddf52a50
-  branch: master
+  revision: 33a351dc59a4b80fcafefb30803e50036aece9f7
+  branch: seg-project-track-dirty-status
   specs:
     xcodeproj (0.28.2)
       activesupport (>= 3)
